@@ -14,4 +14,4 @@ For personal concerns or issues, please make a private post in the forum.
 
 To send a message to your section leader, make a private post in your section’s Forum. Recall that your section leader is a volunteer so this is a slow option.
 
-	> For major personal issues or concerns, please email codeinplace@gmail.com. We will need several days to get back to you -- so this is a very slow option.
+- For major personal issues or concerns, please email codeinplace@gmail.com. We will need several days to get back to you -- so this is a very slow option.
