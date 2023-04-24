@@ -1,3 +1,5 @@
+!(https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png)
+
 # Stanford Code in Place
 ### Section Leader: Claire Yurev
 ### Wednesdays, 7pm
