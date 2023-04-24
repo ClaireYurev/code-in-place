@@ -1,12 +1,12 @@
 ![2023-04-23_21-39-44](https://user-images.githubusercontent.com/61437734/233901667-db63e39b-05b4-4ffc-adeb-446e6166cf89.png)
 
-# Stanford Code in Place
+# Stanford [Code in Place](https://codeinplace.stanford.edu/cip3/)
 ### Section Leader: Claire Yurev
 ### Wednesdays, 7pm
 
 ### Whom to Contact about What
 
-This class is a massive community service project. Stanford is supporting ten thousand learners from around the world. As such, emailing us personally won’t work. Instead, please use the discussion forum system (codeinplace.stanford.edu/cip3/forum) where the section leaders and other students can help you. Some guidelines:
+This class is a massive community service project. Stanford is supporting ten thousand learners from around the world. As such, emailing us personally won’t work. Instead, please use the discussion forum system [codeinplace.stanford.edu/cip3/forum](https://codeinplace.stanford.edu/cip3/) where the section leaders and other students can help you. Some guidelines:
 
 For logistical questions, conceptual and technical questions, or general course conversation, please post a public question on the above forum.
 
