@@ -1,4 +1,4 @@
-!(https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png)
+![2023-04-23_21-39-44](https://user-images.githubusercontent.com/61437734/233901667-db63e39b-05b4-4ffc-adeb-446e6166cf89.png)
 
 # Stanford Code in Place
 ### Section Leader: Claire Yurev
