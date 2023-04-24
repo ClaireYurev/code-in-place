@@ -1,2 +1,6 @@
-# cip3
-Stanford Code in Place Section
+# Stanford Code in Place
+## Claire's Section
+### Section Leader: Claire Yurev
+### Wednesdays, 7pm
+
+
