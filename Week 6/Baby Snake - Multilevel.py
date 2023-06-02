@@ -176,14 +176,32 @@ def random_location():
     # The locations are done in increments of 20 pixels, based on the SIZE constant
     locations = []
     
-    # we choose to not include a possibility of the Target being placed at 0,0
-    # Also, we assume the canvas is SQUARE - otherwise we'll purposely throw an error:
+
+    # We choose to assume that the canvas is SQUARE. I.e. the HEIGHT equals LENGTH.
+    # This is why we define possible_locations variable inside the "if" statement.
+    # This is done on purpose, so that if the canvas is NOT square, we'll get an error, and the game won't run.
+    
     if CANVAS_HEIGHT == CANVAS_WIDTH:
+        
         possible_locations = CANVAS_HEIGHT / SIZE - 1
+        """
+            Above, you'll notice the "- 1". This subtraction of 1 is done on purpose:
+            We choose to not include the possibility of the Target being placed at 0,0.
+            To illustrate this, uncomment line 204 (the 'print(locations)' line).
+            You will see the following:
+            [20.0, 40.0, 60.0, 80.0, 100.0, 120.0, 140.0, 160.0, 180.0, 200.0, 220.0, 240.0, 260.0, 280.0]
+            In other words, there is no location at  "0.0", in the above list.
+            Please try to run the same, but without the "- 1", i.e. "possible_locations = CANVAS_HEIGHT / SIZE"
+            In that case, without the "- 1", you would see the following:
+            [0.0, 20.0, 40.0, 60.0, 80.0, 100.0, 120.0, 140.0, 160.0, 180.0, 200.0, 220.0, 240.0, 260.0, 280.0]
+            Control this as you wish :)
+        """
     
     while possible_locations > 0:
         locations.append(CANVAS_HEIGHT - SIZE * possible_locations)
         possible_locations -= 1
+    
+    #print(locations)
     
     return random.choice(locations)
 
